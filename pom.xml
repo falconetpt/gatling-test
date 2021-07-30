@@ -24,6 +24,11 @@
       <version>${gatling.version}</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>ru.tinkoff</groupId>
+      <artifactId>gatling-amqp-plugin_2.13</artifactId>
+      <version>0.5.0</version>
+    </dependency>
   </dependencies>
 
   <build>
